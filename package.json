@@ -1,0 +1,18 @@
+{
+  "name": "cryptobot",
+  "version": "1.0.0",
+  "description": "\"A simple bot to handle cryptocurrency portfolio\"",
+  "main": "app.js",
+  "dependencies": {
+    "request": "*",
+    "underscore": "*",
+    "express": "*",
+    "body-parser": "*"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franco Camba",
+  "license": "ISC"
+}
